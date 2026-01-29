@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning DS in NEU 24-28
-- Hsgser specilized Mathematics 21-24
+- Hsgser specialized Mathematics 21-24
 - 📫 How to reach me : soamam1989@gmail.com
 
 <!---
