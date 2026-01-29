@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vananikki
-- 👀 I’m interested in web designing and data science
-- 🌱 I’m currently learning DS in NEU
+- 🌱 I’m currently learning DS in NEU 24-28
+- Hsgser specilized Mathematics 21-24
 - 📫 How to reach me : soamam1989@gmail.com
-- ⚡ Fun fact: i like writing short stories 
 
 <!---
 vananikki/vananikki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
